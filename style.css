@@ -10,6 +10,8 @@
   width: 20px;
   height: 20px;
 }
+.body{  background-color: blue;
+}
 
 .snake {
   background-color: blue;
